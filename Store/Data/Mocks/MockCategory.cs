@@ -18,6 +18,7 @@ namespace Store.Store.Mocks
                     new Category { Name = "Электромобили", Description = "Современный вид транспорта" },
                     new Category { Name = "Классические автомобили", Description = "Авто с двигателем внутреннего возгарания" }
                 };
+            }
         }
     }
 }

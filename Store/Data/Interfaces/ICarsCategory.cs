@@ -6,7 +6,7 @@ using Store.Store.Models;
 
 namespace Store.Store.Interfaces
 {
-    interface ICarsCategory
+    public interface ICarsCategory
     {
         IEnumerable<Category> GetAllCategories { get; }
     }
